@@ -2,7 +2,7 @@
   {
     "name": "BNB Smart Chain Mainnet",
     "chain": "BSC",
-    "rpc": [
+    "rpc": [https://github.com/node-real/bnbchainlist.git
       "https://bsc.nodereal.io",
       "https://bsc-dataseed.binance.org/",
       "https://bsc-dataseed1.defibit.io/",
